@@ -1,9 +1,3 @@
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -34,7 +28,7 @@ Fork on Github
 ###
 
 <div align="center">
-  <img height="200" src="<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:54.62%;position:relative;"><iframe width="260" height="142" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/a1kgtu"></iframe></div><p><a href="https://imgflip.com/gif/a1kgtu">via Imgflip</a></p></div>"  />
+  <img height="200" src="https://imgflip.com/gif/a1kgtu"  />
 </div>
 
 ###
