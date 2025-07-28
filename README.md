@@ -26,9 +26,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/a1kgtu"  />
-</div>
-
-###
