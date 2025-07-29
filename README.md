@@ -10,7 +10,7 @@
 
 <div align="center">
 
-I'm a high school student focused on back-end development with Python and others. I'm currently self-studying programming tools and always looking to grow in the field. I'm eager to apply what I learn and continue expanding my knowledge.
+I'm a high school student focused on front-end and back-end development with Python and others. I'm currently self-studying programming tools and always looking to grow in the field. I'm eager to apply what I learn and continue expanding my knowledge.
 ## 🤍⚙️ Tech Playground ⚙️🤍
 
 </div>
