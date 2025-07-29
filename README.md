@@ -23,6 +23,17 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1C1C1C&flip=vertical" />
 
+
+<div align="center">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoRizzonSchwarz&layout=compact&title_color=505050&text_color=505050&bg_color=1C1C1C&border_color=1C1C1C)
+
+</div>
+
+
+
+
+
 <div align="center">
 
 
@@ -42,8 +53,6 @@ I'm a high school student focused on front-end and back-end development with Pyt
     <img src="https://skillicons.dev/icons?i=javascript,css,html,python,pycharm,vscode&perline=10" />
   </a>
 </p>
-
-
 
 
 
