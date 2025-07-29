@@ -35,8 +35,8 @@
 <br />
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fernandorschwarz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fernando's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandorschwarz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FernandoRizzonSchwarz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fernando's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoRizzonSchwarz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <br />
