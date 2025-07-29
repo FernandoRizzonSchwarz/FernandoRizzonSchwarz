@@ -16,7 +16,7 @@ I'm a high school student focused on back-end development with Python and others
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,python,pycharm,vscode,blender&perline=10" />
+    <img src="https://skillicons.dev/icons?i=javascript,css,html,python,pycharm,vscode&perline=10" />
   </a>
 </p>
 
