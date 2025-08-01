@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=A0A7B3&center=true&vCenter=true&width=500&lines=Fernando+Rizzon+Schwarz;About+Me+%7C+Tech+Playground" alt="Typing SVG" />
 </p>
