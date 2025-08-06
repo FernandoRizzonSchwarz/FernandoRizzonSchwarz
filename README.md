@@ -1,15 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1C1C1C&flip=vertical" />
 <h1 align="center">​​​​​​​ Fernando Rizzon Schwarz​​ ​​​​​</h1>
 <p align="center"><strong><code>Fernandola (Backend-focused Python Developer | Exploring other languages)</code></strong></p>
 
 
 <div align="center">
 
-I'm a high school student focused on front-end and back-end development with Python and others. I'm currently self-studying programming tools and always looking to grow in the field. I'm eager to apply what I learn and continue expanding my knowledge.
+I'm a high school student who really enjoys technology and programming. Right now, I'm focused on learning both front-end and back-end, and I usually spend my free time studying languages, tools, and trying to understand how everything works in this field.
+
+I haven’t started real projects yet, but I'm always practicing, watching tutorials, taking courses, and doing my own research.
 ## ⚙️ Tech Playground ⚙️
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&color=%23555555"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&color=%23555555"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&color=%23555555"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&color=%23555555"/>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&color=%23555555"/>
@@ -17,18 +18,15 @@ I'm a high school student focused on front-end and back-end development with Pyt
 
 
 
+
 <div align="center">
-"True education is the art of using the mind to think deeply, not merely to memorize. Learning is a continuous journey, where every mistake transforms into a valuable lesson, and every lived experience becomes a step that elevates us beyond who we were yesterday. To master the art of learning is, ultimately, to master the art of living." — Albert Einstein
 
-</div>
-
-
-<!-- GIF -->
+<!-- IMAGEM -->
 <p align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/e0227f98-3b61-4002-86fd-e4d78da8b55b">
+  <img align="center" src="https://github.com/user-attachments/assets/1e55e213-d3ff-4366-aabf-a488bf349f25">
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1C1C1C&flip=vertical" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff&flip=vertical" />
 
 
 
