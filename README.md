@@ -4,9 +4,7 @@
 
 <div align="center">
 
-I'm a high school student who really enjoys technology and programming. Right now, I'm focused on learning both front-end and back-end, and I usually spend my free time studying languages, tools, and trying to understand how everything works in this field.
-
-I haven’t started real projects yet, but I'm always practicing, watching tutorials, taking courses, and doing my own research.
+I'm a high school student who really enjoys technology and programming. Right now, I'm focused on learning both front-end and back-end, and I usually spend my free time studying languages, tools, and trying to understand how everything works in this field. I haven’t started real projects yet, but I'm always practicing, watching tutorials, taking courses, and doing my own research.
 ## ⚙️ Tech Playground ⚙️
 
 <p align="center">
