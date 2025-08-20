@@ -12,6 +12,8 @@ I'm a high school student who really enjoys technology and programming. Right no
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&color=%23555555"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&color=%23555555"/>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&color=%23555555"/>
+<img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=css&color=%23555555"/>
+
 
 
 
